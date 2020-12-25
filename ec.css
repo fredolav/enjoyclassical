@@ -1,0 +1,20 @@
+.wrap {
+   min-height: calc(100vh - 96px);
+}
+
+.greencolor {
+  background-color: rgb(12, 114, 122);
+}
+
+.embed-container {
+  max-width: 80%;
+  margin: auto;
+}
+
+.left {
+  text-align: left;
+}
+
+.resizeimage {
+  size: 80%;
+}
